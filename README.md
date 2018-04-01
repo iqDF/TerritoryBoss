@@ -1,5 +1,5 @@
 # Territory Boss
-Territory Boss is an upcoming **free-to-play** multiplayer battle royal third-person shooter game. Originally created to compete in Game Development World Competition 2018 with Endi (github.com/endiliey) and Daniel (github.com/iqDF)
+Territory Boss is an upcoming **free-to-play** multiplayer battle royal third-person shooter game. Originally created to compete in Game Development World Competition 2018 with Endi (https://github.com/endiliey) and Daniel (https://github.com/iqDF)
 
 ## Demo
 [![Character Movement](demo.png)](https://youtu.be/eYM2Y440_BE)
